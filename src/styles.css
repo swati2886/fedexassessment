@@ -48,7 +48,7 @@ h1 {
 		background-position: -12px 0;
 	}
 	.fxg-user-options__option .fxg-user-options__icon {
-		background-image: url(/assets/menu-sprite.png);
+		background-image: url(/src/assets/menu-sprite.png);
 		background-size: 77px 56px;
 	}
 	.fxg-user-options__icon {
